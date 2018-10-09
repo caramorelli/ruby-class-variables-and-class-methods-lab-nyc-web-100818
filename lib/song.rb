@@ -10,7 +10,7 @@ class Song
   def initialize(album, artist, song_name)
     @album = album
     @artist = artist
-    @name = nme
+    @name = name
   end 
   
   def name 
