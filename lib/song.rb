@@ -30,13 +30,7 @@ class Song
   def self.genres
     @genre 
   end 
-  
-  def genre_count 
-    # {genre => #of songs belonging to genre}
-  end 
-  
-  def artist_count
-  end 
+
   
   
   
