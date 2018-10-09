@@ -20,7 +20,7 @@ class Song
     @artist 
   end 
   
-  def genre=(type)
+  def genres=(type)
     @genre = type
   end 
   
