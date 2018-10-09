@@ -18,7 +18,8 @@ class Song
     @artist 
   end 
   
-  def count 
+  def count
+    
   end 
   
   def genres=(type)
