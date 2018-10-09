@@ -24,6 +24,9 @@ class Song
     @genre 
   end 
   
+  def genre_count 
+  end 
+  
   
   
 end 
