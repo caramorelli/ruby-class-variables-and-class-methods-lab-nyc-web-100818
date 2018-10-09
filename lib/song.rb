@@ -24,7 +24,7 @@ class Song
     @genre = type
   end 
   
-  def genre 
+  def genres
     @genre 
   end 
   
