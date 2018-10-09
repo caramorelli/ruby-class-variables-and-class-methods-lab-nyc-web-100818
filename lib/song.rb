@@ -25,10 +25,7 @@ class Song
   def count
     
   end 
-  
-  def genres=(type)
-    @genre = type
-  end 
+
   
   def genres
     @genre 
