@@ -10,14 +10,15 @@ class Song
     @name = song_name
   end 
   
- 
-  
   def name 
     @name 
   end 
   
-  def artist 
+  def artists
     @artist 
+  end 
+  
+  def count 
   end 
   
   def genres=(type)
