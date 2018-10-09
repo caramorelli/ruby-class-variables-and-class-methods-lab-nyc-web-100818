@@ -14,7 +14,8 @@ class Song
   end 
   
   def name 
-    @name 
+    @name = []
+    
   end 
   
   def artists
