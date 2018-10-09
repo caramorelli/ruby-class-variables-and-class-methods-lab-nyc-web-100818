@@ -25,6 +25,7 @@ class Song
   end 
   
   def genre_count 
+    # {genre => #of songs belonging to genre}
   end 
   
   def artist_count
