@@ -1,6 +1,7 @@
 
 
 class Song 
+  attr_accessor :name, :artist, :count, 
   
   @@count = 0
   
