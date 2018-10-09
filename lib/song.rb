@@ -2,6 +2,8 @@
 
 class Song 
   
+  @@count = 0
+  
   def initialize(album, artist, song_name)
     @album, @artist, @song_name = album, artist, song_name
   end 
