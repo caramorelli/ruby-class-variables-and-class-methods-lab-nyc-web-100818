@@ -10,7 +10,7 @@ class Song
     @name = song_name
   end 
   
-  def name=
+ 
   
   def name 
     @name 
