@@ -56,7 +56,8 @@ class Song
       if artist_hash.has_key?(artist)
         artist_hash[artist] += 1 
       else 
-        artist_hash[artist] = 1
+        artist_hash[artist] = 1 
+      end 
     end 
   end 
 
