@@ -3,8 +3,7 @@
 class Song 
   attr_accessor :name, :artist, :count, :genre
   
-  @@count = {}
-  
+
   def initialize(name, artist, genre)
     @name = name
     @artist = artist
@@ -34,6 +33,7 @@ class Song
   end 
   
   def self.artist_count
+    {}
   end 
 
   
