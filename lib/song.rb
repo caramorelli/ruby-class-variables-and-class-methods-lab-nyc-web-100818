@@ -16,6 +16,10 @@ class Song
     @artist 
   end 
   
+  def genre=(type)
+    @genre = type
+  end 
+  
   def genre 
     @genre 
   end 
